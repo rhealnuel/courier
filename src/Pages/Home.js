@@ -23,9 +23,17 @@ const Home = () => {
 
  const handleSubmit = (e) => {
     e.preventDefault()
+    if(text !== "123892799"){
+        alert("Invalid tracking number")
+        navigate('/')
+    
 
-    navigate(`/track/${text}`)
+    } else {
+        navigate(`/track/${text}`)
 
+    }
+
+    
 
  }
 

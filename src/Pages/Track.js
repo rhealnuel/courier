@@ -9,7 +9,7 @@ const Track = () => {
     const array = [
         {
             head: "Origin:",
-            text: "China"
+            text: "Yemen"
         },
         {
             head: "Status:",
@@ -21,39 +21,39 @@ const Track = () => {
         },
         {
             head: "Weight:",
-            text: "33"
+            text: "36kg"
         },
         {
             head: "Carrier Refernce No.:",
-            text: "12333233"
+            text: "123442345"
         },
         {
             head: "Qty:",
-            text: "China"
+            text: "1"
         },
         {
             head: "Total Freight:",
-            text: "4"
+            text: "1"
         },
         {
             head: "Departure Date:",
-            text: "2024-04-22"
+            text: "2023-03-15"
         },
         {
             head: "Package:",
-            text: "China"
+            text: "Red Box"
         },
         {
             head: "Destination:",
-            text: "US"
+            text: "Uzbekistan"
         },
         {
             head: "Shipment Mode:",
-            text: "Air"
+            text: "Ship"
         },
         {
             head: "Product",
-            text: "A black big bag"
+            text: "Red Boxg"
         },
         {
             head: "Payment Mode",
@@ -61,7 +61,7 @@ const Track = () => {
         },
         {
             head: "Expected Delivery Date",
-            text: "2024-05-22"
+            text: "2023-04-03"
         },
       
         
@@ -82,19 +82,19 @@ const Track = () => {
                     <div className=' flex flex-col items-center pb-6 lg:pb-0 '>
                         <div >
                             <p className='font-semibold underline  text-[20px] py-2'>Sipper's Information</p>
-                            <p>Name: John Mark </p>
-                            <p>Address: wishville</p>
-                            <p>Phone: 1233333333</p>
-                            <p>Email: john@mail.com</p>
+                            <p>Name: Kim Soung </p>
+                            <p>Address: Miami Florida</p>
+                            <p>Phone: +998881070368</p>
+                            <p>Email: kimsoung612@gmail.com</p>
  
                         </div>
                     </div>
                     <div className=' flex flex-col items-center'>
                         <div >
                             <p className='font-semibold underline  text-[20px] py-2'>Receiver's Information</p>
-                            <p >Name: John Mark </p>
-                            <p>Address: wishville</p>
-                            <p>Phone: 1233333333</p>
+                            <p >Name: Anjella viktorovna </p>
+                            <p>Address: Yunusabad district. Building 9, building 5a apartment 19</p>
+                            <p>Phone: +998909509230</p>
                             <p>Email: john@mail.com</p>
 
                         </div>
