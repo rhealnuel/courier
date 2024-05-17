@@ -110,7 +110,7 @@ const Track = () => {
                         <div className='grid lg:grid-cols-2 items-center'>
                             {
                                 array.map((item) => (
-                                    <div className='flex flex-col gap-1 pb-4  items-center'>
+                                    <div key={item.head} className='flex flex-col gap-1 pb-4  items-center'>
                                         <p className='font-bold '>{item.head}</p>
                                         <p>{item.text}</p>
                                     </div>
