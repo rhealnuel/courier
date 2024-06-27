@@ -14,7 +14,7 @@ function App() {
       <Navbar/>
       <Routes>
       
-      <Route path='/' element={<Homelang/>}  />
+      <Route path='/' element={<Home/>}  />
       <Route path='/track/:id' element={<Tracklang/>}  />
 
       </Routes>
