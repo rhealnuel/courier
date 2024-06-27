@@ -15,7 +15,7 @@ function App() {
       <Routes>
       
       <Route path='/' element={<Home/>}  />
-      <Route path='/track/:id' element={<Tracklang/>}  />
+      <Route path='/track/:id' element={<Track/>}  />
 
       </Routes>
       <Footer />
