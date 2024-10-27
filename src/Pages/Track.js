@@ -1,6 +1,6 @@
 import React from 'react'
 
-import logo from '../images/logo.png'
+import logo from '../images/fedex.svg'
 import { useParams } from 'react-router-dom'
 
 const Track = () => {
@@ -74,7 +74,7 @@ const Track = () => {
         <div className=' bg-white py-48 px-4 lg:px-20 flex justify-center ' >
             <div className=' flex flex-col  w-full'>
                 <div className='flex flex-col items-center py-4'>
-                    <img src={logo} alt='' />
+                    <img src={logo} alt=''  className='w-[30vw] lg:w-[8vw]'/>
                     <p>{id}</p>
                 </div>
 

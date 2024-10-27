@@ -103,7 +103,7 @@ const services = [
                     <div className='flex lg:flex-row flex-col px-4 lg:px-20 w-screen justify-between items-center py-16'>
                        <div className='lg:w-1/2'>
                             <div>
-                                <p className='text-[30px]  lg:text-[45px] font-bold pb-8'><span className='text-[#eb0028]'>Welcome</span> To Crest Courier</p>
+                                <p className='text-[30px]  lg:text-[45px] font-bold pb-8'><span className='text-[#eb0028]'>Welcome</span> To FedEx Courier</p>
                                 <div>
                                     {
                                         welcome.map((item) => (

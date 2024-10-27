@@ -1,6 +1,6 @@
 import React from 'react';
 
-import logo from '../images/logo.png';
+import logo from '../images/fedex.svg';
 import { useParams } from 'react-router-dom';
 
 const Tracklang = () => {

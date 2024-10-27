@@ -13,19 +13,19 @@ const Footer = () => {
                      <FcAbout size={50}/>
                      <div className='w-[300px]'>
                       <p className='font-bold t lg:text-[26px]'>About Us</p>
-                      <p className='italic text-[13px] lg:text-[16px]'>Crest Courier is a global supplier of transport and logistics solutions. This site is only given to customers that are transporting their products through us </p>
+                      <p className='italic text-[13px] lg:text-[16px]'>FedEx Courier is a global supplier of transport and logistics solutions. This site is only given to customers that are transporting their products through us </p>
 
                      </div>
                   </div>
           
                 <div className='flex gap-4 text-[18px] items-center pt-6 lg:pt-0'>
                     <CiMail />
-                    info@crestcourier.com
+                    info@FedExcourier.com
                 </div>
             </div>
                 <hr/>
                 <div className='flex justify-center pt-2 text-[12px] lg:text-[16px] '>
-                  <p>Crest Courier  &copy; 2023 / ALL RIGHTS RESERVED  </p>
+                  <p>FedEx Courier  &copy; 2023 / ALL RIGHTS RESERVED  </p>
                 </div>
         </div>
     </div>
