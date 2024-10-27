@@ -12,6 +12,14 @@ const Track = () => {
             text: "Yemen"
         },
         {
+            head: "Destination:",
+            text: "Uzbekistan"
+        },
+        {
+            head: "Current Location:",
+            text: "China"
+        },
+        {
             head: "Status:",
             text: "On Hold"
         },
@@ -43,10 +51,7 @@ const Track = () => {
             head: "Package:",
             text: "Red Box"
         },
-        {
-            head: "Destination:",
-            text: "Uzbekistan"
-        },
+        
         {
             head: "Shipment Mode:",
             text: "Ship"
